@@ -3,7 +3,7 @@ module github.com/jenkins-x-plugins/jx-admin
 require (
 	github.com/cpuguy83/go-md2man v1.0.10
 	github.com/hashicorp/golang-lru v0.5.4 // indirect
-	github.com/jenkins-x/go-scm v1.6.7
+	github.com/jenkins-x/go-scm v1.6.9
 	github.com/jenkins-x/jx-api/v4 v4.0.25
 	github.com/jenkins-x/jx-helpers/v3 v3.0.91
 	github.com/jenkins-x/jx-kube-client/v3 v3.0.2
